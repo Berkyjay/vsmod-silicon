@@ -1,6 +1,6 @@
 {
 	"code": "silicon",
-	"shape": { "base": "item/ore/ungraded/clearquartz" },
+	"shape": { "base": "item/ore/ungraded/silicon" },
 	"texture": { "base": "item/resource/silicon" },
 	"creativeinventory": { "general": ["*"], "items": ["*"] },
 	"maxstacksize": 64,
