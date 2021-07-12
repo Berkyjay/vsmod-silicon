@@ -1,0 +1,15 @@
+{
+    "file": "game:itemtypes/resource/blocktypes/stone/sand.json",
+	"op": "add",
+    "path": "/combustiblePropsByType/-",
+	"value": {
+		"meltingPoint": 1400,
+		"meltingDuration": 30,
+		"smeltedRatio": 4,
+		"smeltedStack": { 
+			"type": "block", "code": "game:silicon", "stacksize": 1
+		 },
+		 "requiresContainer": false
+	}    
+}
+
