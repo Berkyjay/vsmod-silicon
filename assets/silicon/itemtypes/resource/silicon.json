@@ -11,7 +11,7 @@
 		"shelvable": true
 	},
 	"crushingPropsByType": {		
-		"crushedStack": { "type": "item", "code": "crushedsilicon", "stacksize": 2 }
+		"crushedStack": { "type": "item", "code": "crushed-silicon", "stacksize": 2 }
 	},
 	"fpHandTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },

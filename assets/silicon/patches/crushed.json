@@ -2,8 +2,6 @@
     "file": "game:itemtypes/resource/crushed.json",
 	"op": "add",
     "path": "/states/-",
-	"value": {
-        "silicon"
-	}    
+	"value": "silicon"
 }
 
