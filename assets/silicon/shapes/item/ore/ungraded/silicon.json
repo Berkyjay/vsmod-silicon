@@ -6,7 +6,7 @@
 	"textureWidth": 16,
 	"textureHeight": 16,
 	"textures": {
-		"quartz": "item/resource/silicon"
+		"silicon": "silicon:item/resource/silicon"
 	},
 	"elements": [
 		{
