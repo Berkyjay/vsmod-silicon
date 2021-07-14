@@ -1,6 +1,6 @@
 {
 	"code": "silicon",
-	"shape": { "base": "silicon:item/ore/ungraded/silicon" },
+	"shape": { "base": "silicon:item/resource/silicon" },
 	"texture": { "base": "silicon:item/resource/silicon" },
 	"creativeinventory": { "general": ["*"], "items": ["*"] },
 	"maxstacksize": 64,
@@ -11,7 +11,8 @@
 		"shelvable": true
 	},
 	"crushingPropsByType": {		
-		"crushedStack": { "type": "item", "code": "crushed-silicon", "stacksize": 2 }
+		"crushedStack": { "type": "item", "code": "siliconcrushed", "stacksize": 1 },
+		"hardnessTier": 3
 	},
 	"fpHandTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },

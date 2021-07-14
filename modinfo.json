@@ -1,6 +1,7 @@
 {
   "type": "content",
   "name": "Silicon",
+  "ModID": "silicon",
   "description" : "Adds Silicon item to the game",
   "author": "Berkyjay",
   "version": "1.0.0",
